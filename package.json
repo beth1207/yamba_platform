@@ -1,0 +1,23 @@
+{
+  "name": "yamba_platform",
+  "version": "1.0.0",
+  "description": "job platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beth1207/yamba_platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beth1207/yamba_platform/issues"
+  },
+  "homepage": "https://github.com/beth1207/yamba_platform#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
